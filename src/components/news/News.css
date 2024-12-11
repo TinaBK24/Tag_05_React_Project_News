@@ -4,12 +4,47 @@ h1 {
     margin-bottom: 50px;
 }
 
-.input {
+.input,
+h2 {
     margin-bottom: 30px;
 }
 
-/* input[type="text"] {} */
+input[type="text"],
+select {
+    padding: 3px;
+}
+
+input[type="text"] {
+    margin-right: 10px;
+}
+
+select {
+    margin-right: 30px;
+}
+
+button {
+    background-color: rgb(104, 28, 28);
+    color: white;
+    padding: 3px 10px;
+}
 
 hr {
-    margin-bottom: 30px;
+    margin-bottom: 100px;
+}
+
+img {
+    width: 60%;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+a {
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: rgb(235, 131, 12);
 }
