@@ -1,0 +1,15 @@
+h1 {
+    font-size: 3rem;
+    color: rgb(104, 28, 28);
+    margin-bottom: 50px;
+}
+
+.input {
+    margin-bottom: 30px;
+}
+
+/* input[type="text"] {} */
+
+hr {
+    margin-bottom: 30px;
+}

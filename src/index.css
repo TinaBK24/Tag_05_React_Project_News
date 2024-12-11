@@ -1,0 +1,19 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+}
+
+body {
+  padding: 50px 2vw 50px 5vw;
+}
+
+img {
+  width: 60%;
+}
